@@ -16,4 +16,7 @@
     "url": "https://github.com/Sad-Machin3/dad-jokes-generator/issues"
   },
   "homepage": "https://Sad-Machin3.github.io//dad-jokes-generator"
+"dependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
