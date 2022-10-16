@@ -1,0 +1,19 @@
+{
+  "name": "dad-jokes-generator",
+  "version": "1.0.0",
+  "description": "Generates random dad jokes",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sad-Machin3/dad-jokes-generator.git"
+  },
+  "author": "Sad Machine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sad-Machin3/dad-jokes-generator/issues"
+  },
+  "homepage": "https://Sad-Machin3.github.io//dad-jokes-generator"
+}
